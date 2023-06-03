@@ -1,0 +1,26 @@
+div {
+    /*display: flex;*/
+    height: 400px;
+    width : auto;
+}
+
+figcaption {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 23px;
+    border: 2px black solid;
+}
+
+img {
+    width: 300px;
+}
+
+#pokdescrib {
+    font-size: 20px;
+    height: 45px;
+    width: 290px;
+    background-color: rgb(135, 206, 235);
+    border: 2px solid rgb(35, 87, 35);
+    line-height: 18px;
+}
